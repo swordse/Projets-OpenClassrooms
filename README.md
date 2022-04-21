@@ -24,4 +24,4 @@ Présentation des projets réalisés dans le cadre de la formation développeur 
 
 - Projet 12: réalisation d'une application de culture générale. 
 
-![](images/projet12image.png)
+<img src="images/projet12image.png" width=218 height=432>
